@@ -1,0 +1,9 @@
+FUNC:
+id()---获取变量唯一标识
+locals()---查询本地变量
+sum()---求和
+METHOD:
+.isidentifier()---判断字符串是不是为合法标识符
+.clear()---清除列表内容
+.remove()---删除指定元素，第一个出现
+SYNTAX:
